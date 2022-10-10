@@ -1,5 +1,4 @@
 # ⛓️ Aridema Labs  ⛓️ 
-## _Ariadna Dennise Maciel Posse, Blockchain Labs_
 
 A laboratory dedicated to the development of blockchain technology for people's daily use.
 
